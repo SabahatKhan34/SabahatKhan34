@@ -1,7 +1,4 @@
-### Hi, i'm Sabahat Khan, a passionate Data Analyst.My passion for data lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience and code quality of the things I build.
-
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+### Hi, i'm Sabahat Khan, a passionate Data Analyst.I hold a master's degree from Hindu college. For a past year I have been learning Data Science and Machine Learning. I have completed Data Science Bootcamp by Jovian where I spend 500+ hours working on 3 real world projects one on Web Scraping, one on Exploratory Data Analysis and one  on Machine Learning project. I am open to opportunities for Data Science and Data Analyst role..
 
 <!--
 **SabahatKhan34/SabahatKhan34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
