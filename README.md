@@ -1,4 +1,4 @@
-### Hi, i'm Sabahat Khan, a passionate Data Analyst.I hold a master's degree from Hindu college. For a past year I have been learning Data Science and Machine Learning. I have completed Data Science Bootcamp by Jovian where I spend 500+ hours working on 3 real world projects one on Web Scraping, one on Exploratory Data Analysis and one  on Machine Learning project. I am open to opportunities for Data Science and Data Analyst role..
+### Hi, i'm Sabahat Khan, a passionate Data Analyst | I hold a master's degree from Hindu college| For past 2 years of experience as Data Analyst | Expertise in Advanced Excel, ETL, SQL, Python, Power Bi, Knime, ERP and Power Automate | Supply Chain Management & Project Management Specialist
 
 <!--
 **SabahatKhan34/SabahatKhan34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
